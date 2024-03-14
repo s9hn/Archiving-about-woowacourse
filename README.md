@@ -5,9 +5,9 @@
 |  <center>Mission</center> |  <center>Repository</center>| <center>PR 1</center> |<center>PR 2</center> |
 |:--------:|:--------:|:--------:|:--------:|
 |**자동차경주 - 온보딩**|[kotlin-racingcar](https://github.com/s9hn/kotlin-racingcar/tree/s9hn)|[1단계](https://github.com/woowacourse/kotlin-racingcar/pull/53)|[2단계](https://github.com/woowacourse/kotlin-racingcar/pull/78)|
-|**로또 - TDD, OOP**|[kotlin-lotto](https://github.com/s9hn/kotlin-lotto/tree/s9hn)|[1단계](https://github.com/woowacourse/kotlin-lotto/pull/18)|[2단계](https://github.com/woowacourse/kotlin-lotto/pull/57)|
-|**블랙잭 - 코틀린다운, FP**| [kotlin-blackjack](https://github.com/s9hn/kotlin-racingcar/tree/s9hn)|[1단계](https://github.com/woowacourse/kotlin-blackjack/pull/10)|[2단계](https://github.com/woowacourse/kotlin-blackjack/pull/60)|
-|**오목 - 안드로이드, DB**| [kotlin-omok](https://github.com/s9hn/kotlin-omok/tree/s9hn)|[1, 2단계](https://github.com/woowacourse/kotlin-omok/pull/18)|[3, 4단계](https://github.com/woowacourse/kotlin-omok/pull/47)|
+|**로또 - TDD, OOP**|[kotlin-lotto](https://github.com/s9hn/kotlin-lotto/tree/step2)|[1단계](https://github.com/woowacourse/kotlin-lotto/pull/18)|[2단계](https://github.com/woowacourse/kotlin-lotto/pull/57)|
+|**블랙잭 - 코틀린다운, FP**| [kotlin-blackjack](https://github.com/s9hn/kotlin-racingcar/tree/step2)|[1단계](https://github.com/woowacourse/kotlin-blackjack/pull/10)|[2단계](https://github.com/woowacourse/kotlin-blackjack/pull/60)|
+|**오목 - 안드로이드, DB**| [kotlin-omok](https://github.com/s9hn/kotlin-omok/tree/step4)|[1, 2단계](https://github.com/woowacourse/kotlin-omok/pull/18)|[3, 4단계](https://github.com/woowacourse/kotlin-omok/pull/47)|
 
   
 ### 📖 WHAT I LEARNED
@@ -27,10 +27,10 @@
 
 |  <center>Mission</center> |  <center>Repository</center>| <center>PR 1</center> |<center>PR 2</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|**영화 티켓 예매 - 안드로이드 기초**|[android-movie-theater](https://github.com/s9hn/android-movie-theate/tree/s9hnr)|[1, 2단계](https://github.com/woowacourse/android-movie-theater/pull/12)|[3, 4단계](https://github.com/woowacourse/android-movie-theater/pull/50)|
-|**영화 극장 선택 - 안드로이드 심화**|[android-movie-ticket](https://github.com/s9hn/android-movie-ticket/tree/s9hn)|[1, 2단계](https://github.com/woowacourse/android-movie-ticket/pull/25)|[3, 4단계](https://github.com/woowacourse/android-movie-ticket/pull/54)|
-|**쇼핑 장바구니 - 데이터 로딩, 상태 관리**| [android-shopping-cart](https://github.com/s9hn/android-shopping-cart/tree/s9hn)|[1, 2단계](https://github.com/woowacourse/android-shopping-cart/pull/13)|[3, 4단계](https://github.com/woowacourse/android-shopping-cart/pull/50)|
-|**쇼핑 주문 - 협업, 비동기**| [android-shopping-order](https://github.com/s9hn/android-shopping-order/tree/s9hn)|[1단계](https://github.com/woowacourse/android-shopping-order/pull/11)|[2단계](https://github.com/woowacourse/android-shopping-order/pull/48)|
+|**영화 티켓 예매 - 안드로이드 기초**|[android-movie-theater](https://github.com/s9hn/android-movie-ticket/tree/s9hn)|[1, 2단계](https://github.com/woowacourse/android-movie-ticket/pull/25)|[3, 4단계](https://github.com/woowacourse/android-movie-ticket/pull/54)|
+|**영화 극장 선택 - 안드로이드 심화**|[android-movie-ticket](https://github.com/s9hn/android-movie-theater/tree/step4)|[1, 2단계](https://github.com/woowacourse/android-movie-theater/pull/12)|[3, 4단계](https://github.com/woowacourse/android-movie-theater/pull/50)|
+|**쇼핑 장바구니 - 데이터 로딩, 상태 관리**| [android-shopping-cart](https://github.com/s9hn/android-shopping-cart/tree/step4)|[1, 2단계](https://github.com/woowacourse/android-shopping-cart/pull/13)|[3, 4단계](https://github.com/woowacourse/android-shopping-cart/pull/50)|
+|**쇼핑 주문 - 협업, 비동기**| [android-shopping-order](https://github.com/s9hn/android-shopping-order/tree/step2)|[1단계](https://github.com/woowacourse/android-shopping-order/pull/11)|[2단계](https://github.com/woowacourse/android-shopping-order/pull/48)|
 
   
 ### 📖 WHAT I LEARNED
@@ -87,8 +87,8 @@
 
 |  <center>Mission</center> |  <center>Repository</center>| <center>PR 1</center> |<center>PR 2</center> |<center>PR 3</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|**만들면서 배우는 DI**|[android-di](https://github.com/s9hn/android-di/tree/s9hn)|[1단계](https://github.com/woowacourse/android-di/pull/24)|[2, 3단계](https://github.com/woowacourse/android-di/pull/38)|[4단계](https://github.com/woowacourse/android-di/pull/64)|
-|**뷰 챌린지**|[android-paint](https://github.com/s9hn/android-paint/tree/s9hn)|[1단계](https://github.com/woowacourse/android-paint/pull/5)|[2단계](https://github.com/woowacourse/android-paint/pull/48)|[3단계](https://github.com/woowacourse/android-paint/pull/61)|
+|**만들면서 배우는 DI**|[android-di](https://github.com/s9hn/android-di/tree/step4)|[1단계](https://github.com/woowacourse/android-di/pull/24)|[2, 3단계](https://github.com/woowacourse/android-di/pull/38)|[4단계](https://github.com/woowacourse/android-di/pull/64)|
+|**뷰 챌린지**|[android-paint](https://github.com/s9hn/android-paint/tree/step3)|[1단계](https://github.com/woowacourse/android-paint/pull/5)|[2단계](https://github.com/woowacourse/android-paint/pull/48)|[3단계](https://github.com/woowacourse/android-paint/pull/61)|
 
   
 ### 📖 WHAT I LEARNED
