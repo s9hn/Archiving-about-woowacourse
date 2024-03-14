@@ -12,9 +12,9 @@
   
 ### 📖 WHAT I LEARNED
 
-- 코틀린을 활용한 객체지향 프로그래밍을 학습했어요.
+- 코틀린, 객체지향 프로그래밍을 학습했어요.
   - [SOLID](https://s2ehun.tistory.com/6), [객체 지향 생활 체조 원칙](https://s2ehun.tistory.com/5)을 준수하려 노력했어요.
-- 페어프로그래밍과 [TDD](https://s2ehun.tistory.com/2)를 활용해 진행했어요.
+- 페어프로그래밍과 [TDD](https://s2ehun.tistory.com/2)를 활용해 미션을 진행했어요.
   - Junit을 활용해 단위 테스트를 작성했어요.
 - 정적 팩토리 메서드 패턴, 상태 패턴, MVC 패턴 등 다양한 디자인 패턴을 구현했어요.
 - 안드로이드 프레임워크의 기초를 학습했어요.
@@ -27,8 +27,8 @@
 
 |  <center>Mission</center> |  <center>Repository</center>| <center>PR 1</center> |<center>PR 2</center> |
 |:--------:|:--------:|:--------:|:--------:|
-|**영화 티켓 예매 - 안드로이드 기초**|[android-movie-theater](https://github.com/s9hn/android-movie-ticket/tree/s9hn)|[1, 2단계](https://github.com/woowacourse/android-movie-ticket/pull/25)|[3, 4단계](https://github.com/woowacourse/android-movie-ticket/pull/54)|
-|**영화 극장 선택 - 안드로이드 심화**|[android-movie-ticket](https://github.com/s9hn/android-movie-theater/tree/step4)|[1, 2단계](https://github.com/woowacourse/android-movie-theater/pull/12)|[3, 4단계](https://github.com/woowacourse/android-movie-theater/pull/50)|
+|**영화 티켓 예매 - 안드로이드 기초**|[android-movie-ticket](https://github.com/s9hn/android-movie-ticket/tree/step2)|[1, 2단계](https://github.com/woowacourse/android-movie-ticket/pull/25)|[3, 4단계](https://github.com/woowacourse/android-movie-ticket/pull/54)|
+|**영화 극장 선택 - 안드로이드 심화**|[android-movie-theater](https://github.com/s9hn/android-movie-theater/tree/step4)|[1, 2단계](https://github.com/woowacourse/android-movie-theater/pull/12)|[3, 4단계](https://github.com/woowacourse/android-movie-theater/pull/50)|
 |**쇼핑 장바구니 - 데이터 로딩, 상태 관리**| [android-shopping-cart](https://github.com/s9hn/android-shopping-cart/tree/step4)|[1, 2단계](https://github.com/woowacourse/android-shopping-cart/pull/13)|[3, 4단계](https://github.com/woowacourse/android-shopping-cart/pull/50)|
 |**쇼핑 주문 - 협업, 비동기**| [android-shopping-order](https://github.com/s9hn/android-shopping-order/tree/step2)|[1단계](https://github.com/woowacourse/android-shopping-order/pull/11)|[2단계](https://github.com/woowacourse/android-shopping-order/pull/48)|
 
@@ -38,7 +38,7 @@
 - 안드로이드 기초에 대해 학습했어요.
   - Intent, Context, 안드로이드 4대 컴포넌트, Activity Lifecycle
 - savedInstanceState를 통한 상태관리로 화면 회전에 대응할 수 있어요.
-- Serializable, Parcelable 직렬화 라이브러리의 차이와 구현 방식을 학습했어요.
+- Serializable, Parcelable 등 직렬화 라이브러리의 차이와 구현 방식을 학습했어요.
 - Espresso, Robolectric을 통해 UI 테스트를 경험했어요.
 - 도메인 모듈 분리를 통해 단위테스트를 작성했어요.
 - ListView와 RecyclerView를 자유롭게 다룰 수 있어요.
@@ -53,8 +53,7 @@
   - Pagination, Load More, Infinite Scroll의 차이와 구현 방식을 알고 있어요.
 - Glide 라이브러리를 사용해 캐싱 전략 및 후처리 구현을 학습했어요.
 - Presenter 단위 테스트를 작성했어요.
-- 스크롤 뷰, 리사이클러 뷰 최적화를 위한 방법들을 학습했어요.
-- Http Client로 okhttp3를 학습했어요.
+- ScrollView, RecyclerView 최적화를 위한 방법들을 학습했어요.
 - MockWebServer를 구축할 수 있어요.
 - Repository Pattern에 대해 이해하고 구현할 수 있어요.
 - LiveData 적용 리팩터링 및 테스트를 학습했어요.
@@ -92,20 +91,22 @@
 
   
 ### 📖 WHAT I LEARNED
+- 페어와 상호 코드리뷰를 통해 미션을 진행했어요.
+  
 #### 4-1
 - 서비스 로케이터 패턴의 수동 DI를 구현했어요.
 - Reflection을 사용해 자동 DI를 직접 구현하는 과정을 경험했어요.
 - Robolectric을 사용한 ViewModel 테스트를 학습했어요.
 - Hilt와 Koin을 학습했어요.
-- LifeCycle Aware Components에 대한 DefaultLifecycleObserver를 경험했어요.
+- LifeCycle Aware Components에 대한 DefaultLifecycleObserver를 구현했어요.
 
 #### 4-2
 - 공식 문서의 권장 아키텍처에 대해 이해했어요.
-  - UiState, UDF
+  - UiState, UDF, Usecase..
 - View Lifecycle, 뷰 계층 구조, 뷰 최적화에 대해 학습했어요.
 - 반응형 UI(portrait, landscape/Dark Mode)에 대응할 수 있어요.
 - 다양한 뷰 성능 측정 방법에 대해 학습했어요.
-- Layout Inspector, GPU 렌더링 & GPU Overdraw 검사, Tracing, Microbenchmark
+  - Layout Inspector, GPU 렌더링 & GPU Overdraw 검사, Tracing, Microbenchmark
 - Compose를 활용해 간단한 UI를 구현할 수 있어요.
 
 <hr>
@@ -115,6 +116,13 @@
 |  <center>Mission</center> |  <center>Repository</center>|
 |:--------:|:--------:|
 |**글쓰기**|[woowa-writing-5](https://github.com/s9hn/woowa-writing-5/tree/s9hn)|
+|**프롤로그 1-2**|[sealed class](https://prolog.techcourse.co.kr/studylogs/2705)|
+|**프롤로그 1-3**|[interface VS abstract Class](https://prolog.techcourse.co.kr/studylogs/2882)|
+|**프롤로그 1-4**|[lateinit var 위험한 'by lazy' in fragment](https://prolog.techcourse.co.kr/studylogs/2999)|
+|**프롤로그 2-1**|[Activity란?](https://prolog.techcourse.co.kr/studylogs/3271)|
+|**프롤로그 2-2**|[Looper, Handler, Message](https://prolog.techcourse.co.kr/studylogs/3756)|
+|**프롤로그 2-3**|[Intent란?](https://prolog.techcourse.co.kr/studylogs/3758)|
+|**프롤로그 2-4**|[안드로이드 의존성이 1도없는 '퓨어 MVVM'](https://prolog.techcourse.co.kr/studylogs/3759)|
 
 <hr>
 
